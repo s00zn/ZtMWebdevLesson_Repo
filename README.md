@@ -1,2 +1,2 @@
 # ZtMWebdevLesson_Repo
-Following Zero to Mastery webdev lesson
+Zero to Mastery webdev lesson: building a landing page
